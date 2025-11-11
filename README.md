@@ -20,12 +20,12 @@
 
 ---
 
-## 🚀 Overview
+## Overview
 
 **Server Coins** is a minimalist **Node.js API** that flips a virtual coin and returns the result — `heads` or `tails`.  
 It’s built using only the **native HTTP module**, demonstrating how lightweight APIs can be built without any frameworks.
 
-🧠 *A great example for learning randomness, APIs, and simple backend logic.*
+ *A great example for learning randomness, APIs, and simple backend logic.*
 
 ---
 
@@ -35,6 +35,11 @@ It’s built using only the **native HTTP module**, demonstrating how lightweigh
 - 🔹 **Randomized output** — simulates a fair coin toss  
 - 🔹 **Fast & lightweight** — minimal code, instant response  
 - 🔹 **Deployed on Render** — publicly accessible endpoint  
+
+---
+
+<img width="1600" height="765" alt="Screenshot 2025-11-10 at 20 02 50" src="https://github.com/user-attachments/assets/a3cca403-f885-4a4c-916a-ebd69722d0c2" />
+<img width="1600" height="765" alt="Screenshot 2025-11-10 at 20 02 25" src="https://github.com/user-attachments/assets/38d4ed3f-060d-42a0-bff6-d75861c8a6a4" />
 
 ---
 
@@ -69,5 +74,6 @@ server-coins/
 ├── server.js        # Main Node.js server file
 ├── package.json     # Metadata and dependencies
 └── README.md        # Project documentation
+
 
 
